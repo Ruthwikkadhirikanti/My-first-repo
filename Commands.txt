@@ -1,0 +1,3 @@
+Nginx default path
+
+/usr/share/nginx/html
